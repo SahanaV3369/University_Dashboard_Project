@@ -5,7 +5,6 @@
 
 This dashboard provides an interactive way for university administrators and stakeholders to explore **student admissions, retention trends, and satisfaction levels**. Using historical admission data, you can easily visualize key trends, department performance, and term-specific insights to make informed decisions aimed at improving the student experience.
 
----
 
 ## Key Metrics & KPIs
 
@@ -18,7 +17,6 @@ This dashboard provides an interactive way for university administrators and sta
  **Spring vs. Fall Term Comparison:**Identify seasonal differences in enrollments and retention.
  **Retention & Satisfaction Correlation:** See how student satisfaction impacts retention.
 
----
 
 ## Tools & Technologies Used
 
