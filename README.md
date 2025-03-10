@@ -1,7 +1,7 @@
 # University_Dashboard_Project
 #  University Student Dashboard: Admissions & Student Insights
 
-## Project Overview**
+## **Project Overview**
 
 This dashboard provides an interactive way for university administrators and stakeholders to explore **student admissions, retention trends, and satisfaction levels**. Using historical admission data, you can easily visualize key trends, department performance, and term-specific insights to make informed decisions aimed at improving the student experience.
 
