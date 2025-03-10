@@ -6,7 +6,7 @@ import seaborn as sns
 st.title("University Student Dashboard")
 
 # Load the dataset
-data = pd.read_csv('data/university_student_dashboard_data.csv')
+data = pd.read_csv('university_student_dashboard_data.csv')
 
 # Preprocessing data
 data['Year-Term'] = data['Year'].astype(str) + ' ' + data['Term']
